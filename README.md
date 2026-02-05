@@ -10,7 +10,7 @@ A professional Telegram bot built for real-time price monitoring and alerts acro
 - **Service Architecture**: Separate processes for the bot interface and the backend price-monitoring worker.
 
 ## Details
-- **Bot**: t.me/synergyalertbot
+- **Bot**: [Take on the 7-Days trial](https://t.me/synergyalertbot)
 - **Framework**: `python-telegram-bot` (v20.x, Async/Await)
 - **Database**: MongoDB (via `motor` for async I/O)
 - **APIs**: Deriv WebSocket API (Market data), NowPayments API (Finance)
